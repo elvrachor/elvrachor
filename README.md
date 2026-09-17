@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Eleftheria
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&pause=1000&color=1768F7&center=true&vCenter=true&width=435&lines=MSc+Computer+Science+%40+ETH;Machine+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Computer+Graphics" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=32&pause=1000&color=1768F7&center=true&vCenter=true&width=1200&height=200&lines=MSc+Computer+Science+%40+ETH;Machine+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Computer+Graphics" alt="Typing SVG" /></a>
 
 <!--
 **elvrachor/elvrachor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
